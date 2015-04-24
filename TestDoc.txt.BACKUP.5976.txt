@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Hello!
+Change
+>>>>>>> origin/master
