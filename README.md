@@ -3,7 +3,7 @@ Shanes New Line
 a test
 this is my first committed document
 
-Here Stand Gandyloffmandius
+Here Stands Gandyloffmandius
 ===
 
 His legend is that for ages past his own.
